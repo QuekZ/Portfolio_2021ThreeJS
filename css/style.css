@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container1 {
+    position: absolute;
+    text-align: center;
+    color: white;
+    left: 10%;
+    top: 10%;
+    font-size: 15vw;
+}
+
+.footer {
+    position: absolute;
+    text-align: center;
+    color: white;
+    left: 50%;
+    top: 97%;
+    font-size: 2vw;
+}
